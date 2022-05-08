@@ -26,6 +26,8 @@ namespace netkit {
         extern std::string    ASYNC_LOG_FILE;
         extern size_t        LIMIT_HOSTS_ROWS;
     }
+
+    int parse_args(int argc, char *argv[], const char *prog, const char *version);
 }
 
 #endif /* settings_h */
