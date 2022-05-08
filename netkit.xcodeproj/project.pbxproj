@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		18218CFB2827D4A2002753CC /* netkit */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = netkit; sourceTree = BUILT_PRODUCTS_DIR; };
 		18218CFE2827D4A2002753CC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		18218D052827D50F002753CC /* settings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = settings.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				18218CFE2827D4A2002753CC /* main.cpp */,
+				18218D052827D50F002753CC /* settings.h */,
 			);
 			path = netkit;
 			sourceTree = "<group>";
